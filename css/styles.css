@@ -464,17 +464,16 @@ footer {
   background-color: #404bbf;
 }
 
-.icon-inst,
-.icon-fb,
-.icon-twitt,
-.icon-linkedin {
+.icon-inst-fb-twitt-linkedin {
   fill: #f4f4fd;
 }
 
-.icon-inst:hover,
-.icon-fb:hover,
-.icon-twitt:hover,
-.icon-linkedin:hover {
+.icon-team {
+  width: 40px;
+  height: 40px;
+}
+
+.icon-inst-fb-twitt-linkedin:hover {
   fill: #404bbf;
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
