@@ -88,6 +88,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  max-width: 1440px;
 }
 
 .section-first .header-first {
@@ -279,7 +280,6 @@ img {
 .section-first-container {
   display: flex;
   flex-direction: column;
-  max-width: 1440px;
   align-items: center;
 }
 
@@ -524,7 +524,7 @@ footer {
   list-style-type: none;
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 16px;
   margin-top: 8px;
 }
 
